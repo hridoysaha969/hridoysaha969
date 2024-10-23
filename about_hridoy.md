@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hridoysaha969
+- 👋 Hi, I’m Hridoy Saha
 - 👀 I’m interested in Web Design and Development
-- 🌱 I’m currently learning php, MySQL and Javascript framework
+- 🌱 I cook Web Projects
 - 💞️ I’m looking to collaborate on them who need help
 - 📫 How to reach me? Visit codershridoy.com Here you will get information about me
 
