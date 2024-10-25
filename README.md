@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Node.js, Express.js**
 
-💬 Ask me about **Next.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Next.js, React, Firebase... or anything [here](https://github.com/hridoysaha969/hridoysaha969/issues)**
 
  </div>
  
@@ -45,7 +45,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hridoysaha969/hridoysaha969/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
